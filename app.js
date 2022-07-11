@@ -24,6 +24,7 @@ app.use(bodyParser.json());
 app.use('/api', bookRouter);
 
 app.get('/', (req, res) => {
+    console.log(req);
     res.send('Welcome to my Nodemon API!');
 });
 
