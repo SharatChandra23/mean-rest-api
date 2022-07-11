@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/4fdab69e-7ef1-4e6f-bdd2-f3a6e0c9c4de/microsoft.web/sites/subscriptions/4fdab69e-7ef1-4e6f-bdd2-f3a6e0c9c4de/resourceGroups/production/providers/Microsoft.Web/sites/mean-azure-app",
+    "appService.deploySubpath": "."
+}
